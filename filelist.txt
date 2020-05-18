@@ -1,0 +1,4 @@
+RobloxPlayerBeta.exe
+obs64.exe
+FortniteClient-Win64-Shipping.exe
+csgo.exe
